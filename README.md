@@ -1,3 +1,8 @@
+# Tools
+
+- `Copilot` used to explore Python features, modules, APIs, and to learn how to work with Python tests
+- `ChatGPT` used to look for a free weather API
+
 # Modern Backend in Python Assignment 🌦️
 
 Congrats! You deiced to take the challenge and take another step in your programming career. In this repository, you will find an assignment for the course.
@@ -26,9 +31,9 @@ Fork this repository **as a private repo** and implement the code in the `weathe
 4. All supplied tests **must pass**. If a test is wrong, fix it. not your logic 😉
 5. Update README.md with tools you used to complete the assignment:
 
-Tool | Purpose
---- | ---
-PyTest documentation | Checked how to run tests locally
-ChatGPT | Copy pasted the whole block without any changes
+| Tool                 | Purpose                                         |
+| -------------------- | ----------------------------------------------- |
+| PyTest documentation | Checked how to run tests locally                |
+| ChatGPT              | Copy pasted the whole block without any changes |
 
 Good luck & have fun!
